@@ -2,8 +2,6 @@
 
 **Sagthy/Sagthy** 
 
-Here are some ideas to get you started:
-
 - Santiago Remedi (281190)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
