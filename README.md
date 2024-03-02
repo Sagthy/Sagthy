@@ -20,7 +20,7 @@ Technologies ⚙️
 ![NextJS](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%FF4E28.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%65FF28.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 ### Contact info 📩
 
